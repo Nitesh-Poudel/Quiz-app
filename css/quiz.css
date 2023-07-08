@@ -1,0 +1,17 @@
+.question {
+    border-bottom: 3px solid rgb(223, 9, 9);
+}
+.row{
+    font-size: 22px;
+}
+.container{
+    font-family: cursive;
+}
+.container h1,h3{
+    font-size: 26px;
+   
+}
+
+.timer{
+    text-align: right;
+}
